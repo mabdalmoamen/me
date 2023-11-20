@@ -1,8 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
 
-<head>
-    <meta charset="UTF-8">
     <title>Mostafa Abdalmoamen - CV</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
     <style>
@@ -141,9 +137,6 @@
             color: #88B04B;
         }
     </style>
-</head>
-
-<body>
     <div class="container">
         <h1 style="margin-bottom: 0;">Mostafa Abdalmoamen
 
@@ -191,6 +184,3 @@
             </ul>
         </div>
     </div>
-</body>
-
-</html>
