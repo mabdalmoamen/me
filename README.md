@@ -177,7 +177,7 @@ UtilizedLaravelandVue.jstobuildandmaintainwebapplications.
 </ul>
 </div>
 <h2>Projects</h2>
-<divclass="">
+<div>
 <ul>
 <li><ahref="https://gusto.codies.cloud">Gusto</a></li>
 <li><ahref="https://raqeem.codies.cloud">Raqeem</a></li>
@@ -185,8 +185,7 @@ UtilizedLaravelandVue.jstobuildandmaintainwebapplications.
 <li>
 NRJEgyptappasbackend&
 <astyle="margin-left:5px;text-decoration:none"href="https://https://github.com/mabdalmoamen">
-more...</a
->
+more...</a>
 </li>
 </ul>
 </div>
