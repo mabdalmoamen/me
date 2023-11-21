@@ -2,9 +2,9 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
+    <meta charset="UTF-8" />
     <title>Mostafa Abdalmoamen - CV</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" />
     <style>
         @media print {
             @page {
@@ -12,8 +12,9 @@
                 size: a4;
                 padding: 0;
             }
+        }
         
-                body {
+        body {
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
@@ -21,7 +22,8 @@
             color: #333;
             font-weight: bold;
         }
-                .container {
+        
+        .container {
             width: 90%;
             margin: 5px auto;
             background-color: #fff;
@@ -29,27 +31,31 @@
             border-radius: 8px;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }
-                h1,
+        
+        h1,
         h2,
         h3 {
-            color: #4CAF50;
+            color: #4caf50;
             font-family: Verdana, sans-serif;
             margin-bottom: 0;
             border-bottom: 2px solid #75f306;
             width: fit-content;
         }
-                .contact-info,
+        
+        .contact-info,
         hr,
         .skills {
-            border-bottom: 2px solid #4CAF50;
+            border-bottom: 2px solid #4caf50;
         }
-                ul {
+        
+        ul {
             list-style-type: none;
             padding-left: 0;
             display: flex;
             flex-wrap: wrap;
         }
-                ul:last-of-type li {
+        
+        ul:last-of-type li {
             margin: 5px auto;
             padding: 8px;
             border-radius: 20px;
@@ -57,7 +63,8 @@
             align-items: center;
             justify-content: space-around;
         }
-                .skills li {
+        
+        .skills li {
             margin: 5px auto;
             padding: 8px;
             border-radius: 20px;
@@ -68,74 +75,91 @@
             align-items: center;
             justify-content: space-around;
         }
-                .html {
-            background-color: #EF5350;
+        
+        .html {
+            background-color: #ef5350;
         }
-                .css {
-            background-color: #42A5F5;
+        
+        .css {
+            background-color: #42a5f5;
         }
-                .js {
-            background-color: #66BB6A;
+        
+        .js {
+            background-color: #66bb6a;
         }
-                .ts {
-            background-color: #FFA726;
+        
+        .ts {
+            background-color: #ffa726;
         }
-                .vuejs {
-            background-color: #7E57C2;
+        
+        .vuejs {
+            background-color: #7e57c2;
         }
-                .laravel {
-            background-color: #FF7043;
+        
+        .laravel {
+            background-color: #ff7043;
         }
-                .git {
-            background-color: #78909C;
+        
+        .git {
+            background-color: #78909c;
         }
-                .Php {
+        
+        .Php {
             background-color: #19465c;
         }
-                .java {
-            background-color: #FFA726;
+        
+        .java {
+            background-color: #ffa726;
         }
-                .springBoot {
-            background-color: #66BB6A;
+        
+        .springBoot {
+            background-color: #66bb6a;
         }
-                .jee {
-            background-color: #42A5F5;
+        
+        .jee {
+            background-color: #42a5f5;
         }
-                .jpa {
-            background-color: #EF5350;
+        
+        .jpa {
+            background-color: #ef5350;
         }
-                .angular {
-            background-color: #FF7043;
+        
+        .angular {
+            background-color: #ff7043;
         }
-                .flutter {
+        
+        .flutter {
             background-color: #a94f34;
         }
-                .fab {
+        
+        .fab {
             font-size: 28px;
             margin-right: 5px;
         }
-                .icon {
+        
+        .icon {
             height: 28px;
             width: 28px;
         }
-                h1 {
-            color: #FF6F61;
+        
+        h1 {
+            color: #ff6f61;
         }
-                h2 {
-            color: #6B5B95;
+        
+        h2 {
+            color: #6b5b95;
         }
-                h3 {
-            color: #88B04B;
+        
+        h3 {
+            color: #88b04b;
         }
     </style>
 </head>
 
 <body>
     <div class="container">
-        <h1 style="margin-bottom: 0;">Mostafa Abdalmoamen
-        </h1>
-        <small>FULL STACK Developer
-</small>
+        <h1 style="margin-bottom: 0">Mostafa Abdalmoamen</h1>
+        <small>FULL STACK Developer </small>
         <div class="contact-info">
             <p>Address: Ashmoun, Menofya, Egypt</p>
             <p>Phone: 01002208627</p>
@@ -149,11 +173,15 @@
         <div class="work-experience contact-info">
             <h3>Java Developer</h3>
             <p>Learn Tech Organization, Oct 2019 - Jan 2023( more than 2 years)</p>
-            <p>Developed and maintained Java applications utilizing Spring Boot, Java EE, and JPA.</p>
+            <p>
+                Developed and maintained Java applications utilizing Spring Boot, Java EE, and JPA.
+            </p>
             <hr />
             <h3>Laravel Vue Developer</h3>
             <p>Tech Today & Freelancer, Apr 2020 - Present ( more than 3 years)</p>
-            <p>Utilized Laravel and Vue.js to build and maintain web applications.</p>
+            <p>
+                Utilized Laravel and Vue.js to build and maintain web applications.
+            </p>
         </div>
         <h2>Skills</h2>
         <div class="skills">
@@ -167,27 +195,29 @@
                 <li class="laravel"><i class="icon fab fa-laravel"></i>Laravel</li>
                 <li class="git"><i class="icon fab fa-git"></i>Git</li>
                 <li class="java"><i class="icon fab fa-java"></i>Java</li>
-                <li class="springBoot"><i class="icon fab fa-java"></i>Spring Boot</li>
+                <li class="springBoot">
+                    <i class="icon fab fa-java"></i>Spring Boot
+                </li>
                 <li class="jee"><i class="icon fab fa-java"></i>Java EE</li>
-                <li class="flutter"><img src="https://docs.flutter.dev/assets/images/shared/brand/flutter/logo/flutter-logomark-320px.png" class="icon" />Flutter
+                <li class="flutter">
+                    <img src="https://docs.flutter.dev/assets/images/shared/brand/flutter/logo/flutter-logomark-320px.png" class="icon" />Flutter
                 </li>
             </ul>
         </div>
         <h2>Projects</h2>
         <div class="">
-
             <ul>
                 <li><a href="https://gusto.codies.cloud">Gusto</a></li>
                 <li><a href="https://raqeem.codies.cloud">Raqeem</a></li>
                 <li><a href="https://beautytoday.codies.cloud">Beauty Center</a></li>
-                <li>NRJ Egypt app as backend &
-                    <a style="margin-left: 5px;text-decoration: none;" href="https://https://github.com/mabdalmoamen"> more ...</a>
-
-
-                </li>
-            </ul>
-        </div>
+                <li>
+                    NRJ Egypt app as backend &
+                    <a style="margin-left: 5px; text-decoration: none" href="https://https://github.com/mabdalmoamen">
+              more ...</a
+            >
+          </li>
+        </ul>
+      </div>
     </div>
-</body>
-
+  </body>
 </html>
