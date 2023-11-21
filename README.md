@@ -12,7 +12,6 @@ size:a4;
 padding:0;
 }
 }
-
 body{
 font-family:Arial,sans-serif;
 margin:0;
@@ -38,7 +37,6 @@ margin-bottom:0;
 border-bottom:2pxsolid#75f306;
 width:fit-content;
 }
-
 .contact-info,
 hr,
 .skills{
@@ -102,7 +100,6 @@ background-color:#66bb6a;
 .jee{
 background-color:#42a5f5;
 }
-
 .jpa{
 background-color:#ef5350;
 }
@@ -112,7 +109,6 @@ background-color:#ff7043;
 .flutter{
 background-color:#a94f34;
 }
-
 .fab{
 font-size:28px;
 margin-right:5px;
