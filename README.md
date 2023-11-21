@@ -1,1 +1,194 @@
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="Content-Style-Type" content="text/css" /><meta name="generator" content="Aspose.Words for .NET 21.6.0" /><title>Mostafa Abdalmoamen - CV</title><style type="text/css">body { font-family:Arial; font-size:12pt; font-weight:bold; color:#333333 }h1, h2, h3, h4, h5, h6, p { margin:0pt }h1 { margin-top:12pt; margin-bottom:0pt; page-break-inside:avoid; page-break-after:avoid; border-bottom:1.5pt solid #75f306; font-family:Verdana; font-size:24pt; font-weight:bold; font-style:normal; color:#ff6f61 }h2 { margin-top:2pt; margin-bottom:0pt; page-break-inside:avoid; page-break-after:avoid; border-bottom:1.5pt solid #75f306; font-family:Verdana; font-size:18pt; font-weight:bold; font-style:normal; color:#6b5b95 }h3 { margin-top:2pt; margin-bottom:0pt; page-break-inside:avoid; page-break-after:avoid; border-bottom:1.5pt solid #75f306; font-family:Verdana; font-size:14pt; font-weight:bold; font-style:normal; color:#88b04b }h4 { margin-top:2pt; margin-bottom:0pt; page-break-inside:avoid; page-break-after:avoid; font-family:'Times New Roman'; font-size:12pt; font-weight:bold; font-style:normal; color:#2f5496 }h5 { margin-top:2pt; margin-bottom:0pt; page-break-inside:avoid; page-break-after:avoid; font-family:'Times New Roman'; font-size:10pt; font-weight:bold; font-style:normal; color:#2f5496 }h6 { margin-top:2pt; margin-bottom:0pt; page-break-inside:avoid; page-break-after:avoid; font-family:'Times New Roman'; font-size:8pt; font-weight:bold; font-style:normal; color:#1f3763 }.contact-info { border-bottom:1.5pt solid #4caf50; font-family:Arial; font-size:12pt; font-weight:bold; color:#333333 }.ulnth-last-of-type1li { font-family:Arial; font-size:12pt; font-weight:bold; color:#333333 }span.Heading1Char { font-family:'Calibri Light'; font-size:16pt; color:#2f5496 }span.Heading2Char { font-family:'Calibri Light'; font-size:13pt; color:#2f5496 }span.Heading3Char { font-family:'Calibri Light'; font-size:12pt; color:#1f3763 }span.Heading4Char { font-family:'Calibri Light'; font-style:italic; color:#2f5496 }span.Heading5Char { font-family:'Calibri Light'; color:#2f5496 }span.Heading6Char { font-family:'Calibri Light'; color:#1f3763 }span.fab { font-family:'Font Awesome 5 Brands'; font-size:21pt; font-weight:normal; font-style:normal; font-variant:normal }</style></head><body style="background:#f5f5f5"><div><h1 style="margin-top:16.1pt; margin-right:15pt; margin-left:15pt; page-break-inside:auto; page-break-after:auto; background-color:#ffffff"><span>Mostafa Abdalmoamen</span></h1><p style="margin-right:15pt; margin-left:15pt; font-size:10pt; background-color:#ffffff"><span>FULL STACK Developer </span></p><div style="margin:12pt 15pt; border-bottom:1.5pt solid #4caf50; clear:both"><p style="padding-bottom:12pt; background-color:#ffffff"><span>Address: Ashmoun, Menofya, Egypt</span></p><p style="padding-bottom:12pt; background-color:#ffffff"><span>Phone: 01002208627</span></p><p style="padding-bottom:12pt; background-color:#ffffff"><span>Email: m.abdalmoamen@gmail.com</span></p><h2 style="margin-top:0pt; page-break-inside:auto; page-break-after:auto; background-color:#ffffff"><span>Education</span></h2><p style="background-color:#ffffff"><span>Graduated from Faculty of Commerce, AIN shams UNI</span></p></div><div style="margin-top:14.95pt; margin-right:15pt; margin-left:15pt; border-bottom:1.5pt solid #75f306; clear:both"><h2 style="margin-top:0pt; page-break-inside:auto; page-break-after:auto; border-bottom-style:none; background-color:#ffffff"><span>Work Experience</span></h2><h3 style="margin-top:0pt; page-break-inside:auto; page-break-after:auto; border-bottom-style:none; background-color:#ffffff"><span>Java Developer</span></h3></div><p style="margin:12pt 15pt; background-color:#ffffff"><span>Learn Tech Organization, Oct 2019 - Jan 2023( more than 2 years)</span></p><p style="margin:12pt 15pt; background-color:#ffffff"><span>Developed and maintained Java applications utilizing Spring Boot, Java EE, and JPA. </span></p><div style="margin-right:15pt; margin-left:15pt; border-bottom:1.5pt solid #4caf50; clear:both"><div align="center" style="margin-right:15pt; margin-left:15pt"><hr size="3" align="center" style="width:100%" /></div></div><h3 style="margin-top:14.05pt; margin-right:15pt; margin-left:15pt; page-break-inside:auto; page-break-after:auto; background-color:#ffffff"><span>Laravel Vue Developer</span></h3><p style="margin:12pt 15pt; background-color:#ffffff"><span>Tech Today &amp; Freelancer, Apr 2020 - Present ( more than 3 years)</span></p><p style="margin:12pt 15pt; background-color:#ffffff"><span>Utilized Laravel and Vue.js to build and maintain web applications. </span></p><h2 style="margin-top:14.95pt; margin-right:15pt; margin-left:15pt; page-break-inside:auto; page-break-after:auto; background-color:#ffffff"><span>Skills</span></h2><div style="margin:12pt 15pt; border-bottom:1.5pt solid #4caf50; clear:both"><p class="ulnth-last-of-type1li" style="padding:6pt 6pt 3.75pt; font-size:21pt; background-color:#ef5350"><span style="width:15pt; display:inline-block">&#xa0;</span><span style="font-size:12pt; color:#ffffff">HTML</span></p><p class="ulnth-last-of-type1li" style="padding-right:6pt; padding-left:6pt; padding-bottom:3.75pt; font-size:21pt; background-color:#42a5f5"><span style="width:15pt; display:inline-block">&#xa0;</span><span style="font-size:12pt; color:#ffffff">CSS</span></p><p class="ulnth-last-of-type1li" style="padding-right:6pt; padding-left:6pt; padding-bottom:3.75pt; font-size:21pt; background-color:#66bb6a"><span style="width:15pt; display:inline-block">&#xa0;</span><span style="font-size:12pt; color:#ffffff">JavaScript</span></p><p class="ulnth-last-of-type1li" style="padding-right:6pt; padding-left:6pt; padding-bottom:3.75pt; font-size:21pt; background-color:#ffa726"><span style="width:15pt; display:inline-block">&#xa0;</span><span style="font-size:12pt; color:#ffffff">TypeScript</span></p><p class="ulnth-last-of-type1li" style="padding-right:6pt; padding-left:6pt; padding-bottom:3.75pt; font-size:21pt; background-color:#7e57c2"><span style="width:15pt; display:inline-block">&#xa0;</span><span style="font-size:12pt; color:#ffffff">Vue.js</span></p><p class="ulnth-last-of-type1li" style="padding-right:6pt; padding-left:6pt; padding-bottom:3.75pt; font-size:21pt; background-color:#19465c"><span style="width:15pt; display:inline-block">&#xa0;</span><span style="font-size:12pt; color:#ffffff">Php</span></p><p class="ulnth-last-of-type1li" style="padding-right:6pt; padding-left:6pt; padding-bottom:3.75pt; font-size:21pt; background-color:#ff7043"><span style="width:15pt; display:inline-block">&#xa0;</span><span style="font-size:12pt; color:#ffffff">Laravel</span></p><p class="ulnth-last-of-type1li" style="padding-right:6pt; padding-left:6pt; padding-bottom:3.75pt; font-size:21pt; background-color:#78909c"><span style="width:15pt; display:inline-block">&#xa0;</span><span style="font-size:12pt; color:#ffffff">Git</span></p><p class="ulnth-last-of-type1li" style="padding-right:6pt; padding-left:6pt; padding-bottom:3.75pt; font-size:21pt; background-color:#ffa726"><span style="width:15pt; display:inline-block">&#xa0;</span><span style="font-size:12pt; color:#ffffff">Java</span></p><p class="ulnth-last-of-type1li" style="padding-right:6pt; padding-left:6pt; padding-bottom:3.75pt; font-size:21pt; background-color:#66bb6a"><span style="width:15pt; display:inline-block">&#xa0;</span><span style="font-size:12pt; color:#ffffff">Spring Boot </span></p><p class="ulnth-last-of-type1li" style="padding-right:6pt; padding-left:6pt; padding-bottom:3.75pt; font-size:21pt; background-color:#42a5f5"><span style="width:15pt; display:inline-block">&#xa0;</span><span style="font-size:12pt; color:#ffffff">Java EE</span></p><p class="ulnth-last-of-type1li" style="padding-right:6pt; padding-left:6pt; padding-bottom:6pt; background-color:#a94f34"><img src="images/Aspose.Words.a75cf725-fd97-43c5-86b6-72b1ae69bd96.001.png" width="28" height="28" alt="" style="-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline" /><span style="color:#ffffff">Flutter </span></p></div><h2 style="margin-top:14.95pt; margin-right:15pt; margin-left:15pt; page-break-inside:auto; page-break-after:auto; background-color:#ffffff"><span>Projects</span></h2><p class="ulnth-last-of-type1li" style="margin:12pt 15pt 3.75pt; padding:6pt; background-color:#ffffff"><a href="https://gusto.codies.cloud" style="text-decoration:none"><span style="text-decoration:underline">Gusto</span></a></p><p class="ulnth-last-of-type1li" style="margin:3.75pt 15pt; padding:6pt; background-color:#ffffff"><a href="https://raqeem.codies.cloud" style="text-decoration:none"><span style="text-decoration:underline">Raqeem</span></a></p><p class="ulnth-last-of-type1li" style="margin:3.75pt 15pt; padding:6pt; background-color:#ffffff"><a href="https://beautytoday.codies.cloud" style="text-decoration:none"><span style="text-decoration:underline">Beauty Center</span></a></p><p class="ulnth-last-of-type1li" style="margin:3.75pt 15pt 12pt; padding:6pt; background-color:#ffffff"><span>NRJ Egypt app as backend &amp; </span><a href="https://https://github.com/mabdalmoamen" style="text-decoration:none"><span>more ...</span></a></p></div></body></html>
+<html lang="en"><head>
+    <meta charset="UTF-8">
+    <title>Mostafa Abdalmoamen - CV</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <style>
+        @media print {
+            @page {
+                margin: 0;
+                size: a4;
+                padding: 0;
+            }
+        }
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f5;
+            color: #333;
+            font-weight: bold;
+        }
+        .container {
+            width: 90%;
+            margin: 5px auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1,
+        h2,
+        h3 {
+            color: #4caf50;
+            font-family: Verdana, sans-serif;
+            margin-bottom: 0;
+            border-bottom: 2px solid #75f306;
+            width: fit-content;
+        }
+        .contact-info,
+        hr,
+        .skills {
+            border-bottom: 2px solid #4caf50;
+        }
+        ul {
+            list-style-type: none;
+            padding-left: 0;
+            display: flex;
+            flex-wrap: wrap;
+        }
+        ul:last-of-type li {
+            margin: 5px auto;
+            padding: 8px;
+            border-radius: 20px;
+            display: flex;
+            align-items: center;
+            justify-content: space-around;
+        }
+        .skills li {
+            margin: 5px auto;
+            padding: 8px;
+            border-radius: 20px;
+            color: #fff;
+            height: 30px;
+            width: 150px;
+            display: flex;
+            align-items: center;
+            justify-content: space-around;
+        }
+        .html {
+            background-color: #ef5350;
+        }
+        .css {
+            background-color: #42a5f5;
+        }
+        .js {
+            background-color: #66bb6a;
+        }
+        .ts {
+            background-color: #ffa726;
+        }
+        .vuejs {
+            background-color: #7e57c2;
+        }
+        .laravel {
+            background-color: #ff7043;
+        }
+        .git {
+            background-color: #78909c;
+        }
+        .Php {
+            background-color: #19465c;
+        }
+        .java {
+            background-color: #ffa726;
+        }
+        .springBoot {
+            background-color: #66bb6a;
+        }
+        .jee {
+            background-color: #42a5f5;
+        }
+        
+        .jpa {
+            background-color: #ef5350;
+        }
+        .angular {
+            background-color: #ff7043;
+        }
+        .flutter {
+            background-color: #a94f34;
+        }
+        .fab {
+            font-size: 28px;
+            margin-right: 5px;
+        }
+        .icon {
+            height: 28px;
+            width: 28px;
+        }
+        h1 {
+            color: #ff6f61;
+        }
+        h2 {
+            color: #6b5b95;
+        }
+        h3 {
+            color: #88b04b;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1 style="margin-bottom: 0">Mostafa Abdalmoamen</h1>
+        <small>FULL STACK Developer </small>
+        <div class="contact-info">
+            <p>Address: Ashmoun, Menofya, Egypt</p>
+            <p>Phone: 01002208627</p>
+            <p>Email: m.abdalmoamen@gmail.com</p>
+        </div>
+        <div class="contact-info">
+            <h2>Education</h2>
+            <p>Graduated from Faculty of Commerce, AIN shams UNI</p>
+        </div>
+        <h2>Work Experience</h2>
+        <div class="work-experience contact-info">
+            <h3>Java Developer</h3>
+            <p>Learn Tech Organization, Oct 2019 - Jan 2023( more than 2 years)</p>
+            <p>
+                Developed and maintained Java applications utilizing Spring Boot, Java EE, and JPA.
+            </p>
+            <hr>
+            <h3>Laravel Vue Developer</h3>
+            <p>Tech Today &amp; Freelancer, Apr 2020 - Present ( more than 3 years)</p>
+            <p>
+                Utilized Laravel and Vue.js to build and maintain web applications.
+            </p>
+        </div>
+        <h2>Skills</h2>
+        <div class="skills">
+            <ul>
+                <li class="html"><i class="icon fab fa-html5"></i>HTML</li>
+                <li class="css"><i class="icon fab fa-css3-alt"></i>CSS</li>
+                <li class="js"><i class="icon fab fa-js"></i>JavaScript</li>
+                <li class="ts"><i class="icon fab fa-react"></i>TypeScript</li>
+                <li class="vuejs"><i class="icon fab fa-vuejs"></i>Vue.js</li>
+                <li class="Php"><i class="icon fab fa-php"></i>Php</li>
+                <li class="laravel"><i class="icon fab fa-laravel"></i>Laravel</li>
+                <li class="git"><i class="icon fab fa-git"></i>Git</li>
+                <li class="java"><i class="icon fab fa-java"></i>Java</li>
+                <li class="springBoot">
+                    <i class="icon fab fa-java"></i>Spring Boot
+                </li>
+                <li class="jee"><i class="icon fab fa-java"></i>Java EE</li>
+                <li class="flutter">
+                    <img src="https://docs.flutter.dev/assets/images/shared/brand/flutter/logo/flutter-logomark-320px.png" class="icon">Flutter
+                </li>
+            </ul>
+        </div>
+        <h2>Projects</h2>
+        <div class="">
+            <ul>
+                <li><a href="https://gusto.codies.cloud">Gusto</a></li>
+                <li><a href="https://raqeem.codies.cloud">Raqeem</a></li>
+                <li><a href="https://beautytoday.codies.cloud">Beauty Center</a></li>
+                <li>
+                    NRJ Egypt app as backend &amp;
+                    <a style="margin-left: 5px; text-decoration: none" href="https://https://github.com/mabdalmoamen">
+              more ...</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  
+</body></html>
